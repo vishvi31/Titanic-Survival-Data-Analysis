@@ -7,6 +7,10 @@ Titanic Survival Data Analysis predicts the survival chances of the people inclu
 
 [train.csv](https://github.com/user-attachments/files/25268008/train.csv)
 
+### Titanic Survival Data Analysis in Jupyter Notebook
+
+[notebooks_Titanic Survival Data Analysis.ipynb](https://github.com/user-attachments/files/25312448/notebooks_Titanic.Survival.Data.Analysis.ipynb)
+
 
 
 
