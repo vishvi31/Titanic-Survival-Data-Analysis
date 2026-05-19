@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.csv
+data/
+*.png
+*.jpg
+venv/
+.env
+*.pkl
+*.joblib
+.DS_Store
+Thumbs.db
